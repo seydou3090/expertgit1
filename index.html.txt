@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 
 Bonjour main1
 =======
 Bonjour cagnnotte1
 Bonjour cagnnotte3
+=======
+>>>>>>> parent of a0d063c (seydou main1)
